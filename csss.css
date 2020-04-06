@@ -1,0 +1,42 @@
+a{
+  color:gray;
+  text-decoration: none;
+  }
+.this{
+  text-decoration: overline underline;
+  color: black;
+  display: inline;
+  }
+h1{
+  text-align: center;
+  text-decoration: underline overline;
+}
+#grid{
+  display: grid;
+  grid-template-columns: 0.5fr 1fr 0.5fr;
+  text-align: center;
+}
+#img{
+  text-align: center;
+}
+img{
+  width: 30%;
+}
+#main{
+  font-size: 35px;
+}
+.that,.those{
+  text-decoration: overline underline;
+}
+#grid1{
+  text-align: center;
+}
+#wow{
+  margin-bottom: 49.354px;
+}
+#game{
+  height: auto;
+}
+#sandbox{
+  border: 2px solid black;
+}

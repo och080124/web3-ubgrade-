@@ -1,0 +1,32 @@
+a{
+  color:gray;
+  text-decoration: none;
+  }
+.this{
+  text-decoration: overline underline;
+  color: black;
+  }
+h1{
+  text-align: center;
+  text-decoration: underline overline;
+}
+#grid{
+  display: grid;
+  grid-template-columns: 0.5fr 1fr 0.5fr;
+  text-align: center;
+}
+#img{
+  text-align: center;
+}
+img{
+  width: 30%;
+}
+#main{
+  font-size: 35px;
+}
+.that{
+  text-decoration: overline underline;
+}
+#input{
+  display: inline;
+}
